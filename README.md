@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- ASSET: add docs/assets/logo.png (~256px square) when the new logo is ready, then uncomment:
-  <img src="docs/assets/logo.png" width="120" alt="Cursaris logo" /> -->
+  <img src="docs/assets/logo.png" width="120" alt="Cursaris logo" />
 
   <h1>Cursaris</h1>
 
